@@ -1,7 +1,0 @@
-postgreSQL 9.6 
-connectionName: maxtestermaster:us-central1:maxtestermastersql
-Instance ID: maxtestermastersql
-Password: t1Ff5hylk81h2e2l
-
-
-Project ID:maxtestermaster

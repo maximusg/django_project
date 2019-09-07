@@ -1,7 +1,0 @@
-psql "sslmode=verify-full sslrootcert=server
--ca.pem \
-sslcert=client-cert.pem sslkey=client-key.pem \
-hostaddr=35.202.189.37 \
->> host=maxtestermaster:maxtestermastersql \
-port=5432 \
-user=postgres dbname=postgres"
